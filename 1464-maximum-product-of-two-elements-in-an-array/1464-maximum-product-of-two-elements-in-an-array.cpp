@@ -4,7 +4,7 @@ public:
         if(nums.size() == 0) return 0;
 
         int largest = nums[0];
-        int slargest = 0;
+        int slargest = INT_MIN;
         int product;
 
 
@@ -16,8 +16,8 @@ public:
             else if(nums[i] > slargest){
                 slargest = nums[i];
             }
-        product = (largest - 1)*(slargest - 1);
         }
+    product = (largest - 1)*(slargest - 1);
     return product;
         
     }
