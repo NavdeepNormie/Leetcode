@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NavdeepNormie/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/NavdeepNormie/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NavdeepNormie/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/NavdeepNormie/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NavdeepNormie/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NavdeepNormie/Leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NavdeepNormie/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NavdeepNormie/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NavdeepNormie/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NavdeepNormie/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/NavdeepNormie/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/NavdeepNormie/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NavdeepNormie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NavdeepNormie/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/NavdeepNormie/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NavdeepNormie/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NavdeepNormie/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
