@@ -20,19 +20,15 @@ public:
 
     int rob(vector<int>& nums) {
 
-        if(nums.size() == 1)
+        if(nums.size() == 1){
             return nums[0];
+        }
+        vector<int> skipfirsthouse(nums.size() - 1);
+        vector<int> skiplasthouse(nums.size() - 1);
 
-        vector<int> skipfirsthouse;
-        vector<int> skiplasthouse;
-
-        for(int i = 0; i < nums.size(); i++) {
-
-            if(i != 0)
-                skipfirsthouse.push_back(nums[i]);
-
-            if(i != nums.size() - 1)
-                skiplasthouse.push_back(nums[i]);
+        for(int i = 0; i < nums.size() - 1; i++) {
+        skipfirsthouse[i] = nums[i + 1];
+        skiplasthouse[i] = nums[i];
         }
 
         int lootskippingfirst = robhelper(skipfirsthouse);
