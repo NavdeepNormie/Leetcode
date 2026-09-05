@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NavdeepNormie/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NavdeepNormie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NavdeepNormie/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/NavdeepNormie/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NavdeepNormie/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/NavdeepNormie/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NavdeepNormie/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NavdeepNormie/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NavdeepNormie/Leetcode/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/NavdeepNormie/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NavdeepNormie/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NavdeepNormie/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NavdeepNormie/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NavdeepNormie/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NavdeepNormie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/NavdeepNormie/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NavdeepNormie/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NavdeepNormie/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NavdeepNormie/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NavdeepNormie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NavdeepNormie/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NavdeepNormie/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NavdeepNormie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/NavdeepNormie/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NavdeepNormie/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -312,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NavdeepNormie/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/NavdeepNormie/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/NavdeepNormie/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/NavdeepNormie/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NavdeepNormie/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Memoization
