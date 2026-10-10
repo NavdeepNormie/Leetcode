@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NavdeepNormie/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NavdeepNormie/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/NavdeepNormie/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/NavdeepNormie/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/NavdeepNormie/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NavdeepNormie/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/NavdeepNormie/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NavdeepNormie/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/NavdeepNormie/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NavdeepNormie/Leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NavdeepNormie/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NavdeepNormie/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NavdeepNormie/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/NavdeepNormie/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NavdeepNormie/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/NavdeepNormie/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NavdeepNormie/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NavdeepNormie/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/NavdeepNormie/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NavdeepNormie/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NavdeepNormie/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NavdeepNormie/Leetcode/tree/master/0547-number-of-provinces) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NavdeepNormie/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NavdeepNormie/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NavdeepNormie/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/NavdeepNormie/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NavdeepNormie/Leetcode/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
